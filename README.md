@@ -1,2 +1,1 @@
-# Image-slider
-React+Vite
+# React+Vite
